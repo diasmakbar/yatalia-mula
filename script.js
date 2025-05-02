@@ -1,7 +1,7 @@
 // Inisialisasi variabel
 let questions = [];
 let currentNumber = 1;
-let currentLanguage = "en";
+let currentLanguage = "eng";
 
 // Fetch data dari JSON
 fetch('questions.json')
