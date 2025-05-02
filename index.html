@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Question App</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <div class="header">
+      <div class="logo">LOGO</div>
+      <div class="language-toggle">
+        <label>
+          <input type="radio" name="language" value="en" checked> EN
+        </label>
+        <label>
+          <input type="radio" name="language" value="idn"> ID
+        </label>
+      </div>
+    </div>
+
+    <!-- Counter -->
+    <div class="counter">
+      <button id="minus-btn">-</button>
+      <div id="current-number" class="number-display">1</div>
+      <button id="plus-btn">+</button>
+    </div>
+
+    <!-- Question -->
+    <div class="question">
+      <p id="question-text">Loading...</p>
+    </div>
+
+    <!-- Random Button -->
+    <button id="random-btn">Random</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

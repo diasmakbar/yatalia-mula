@@ -1,0 +1,1582 @@
+[
+  {
+    "id": 1,
+    "idn": "Bagaimana cara memulai kembali",
+    "eng": "How to start over"
+  },
+  {
+    "id": 2,
+    "idn": "Sedang menjadi siapa hari ini",
+    "eng": "Who are you personifying today"
+  },
+  {
+    "id": 3,
+    "idn": "Apa yang dikatakan ibumu saat terakhir kali berjumpa",
+    "eng": "What did your mother say the last time you meet?"
+  },
+  {
+    "id": 4,
+    "idn": "Kenapa kamu merasa terperangkap",
+    "eng": "Why do you feel trapped?"
+  },
+  {
+    "id": 5,
+    "idn": "Seluas apa kamu melihat",
+    "eng": "How broad can you see"
+  },
+  {
+    "id": 6,
+    "idn": "Sekeras apa kamu terhadap dirimu sendiri",
+    "eng": "How hard are you on yourself"
+  },
+  {
+    "id": 7,
+    "idn": "Siapa yang membuatmu ingin menikah",
+    "eng": "Who makes you want to be married"
+  },
+  {
+    "id": 8,
+    "idn": "Nama anakmu kelak",
+    "eng": "The name of your future child"
+  },
+  {
+    "id": 9,
+    "idn": "Apa alasanmu menyakiti",
+    "eng": "What is your reason to hurt"
+  },
+  {
+    "id": 10,
+    "idn": "Bagaimana hari yang menyenangkan versi kamu",
+    "eng": "What's your definition of fun day"
+  },
+  {
+    "id": 11,
+    "idn": "Kapan kamu ingin menghilang",
+    "eng": "When do you want to disappear"
+  },
+  {
+    "id": 12,
+    "idn": "Apa yang kamu sesali dalam seminggu terakhir",
+    "eng": "What do you regret in the past week"
+  },
+  {
+    "id": 13,
+    "idn": "Ke mana kamu ingin pulang",
+    "eng": "Where do you want to come home to"
+  },
+  {
+    "id": 14,
+    "idn": "Mengapa kamu masih memikirkan dia",
+    "eng": "Why do you still think about him/her"
+  },
+  {
+    "id": 15,
+    "idn": "Apa yang kamu lihat ketika bercermin",
+    "eng": "What do you see when you're in front of the mirror"
+  },
+  {
+    "id": 16,
+    "idn": "Seberapa penting pencapaian mimpi buat kamu",
+    "eng": "How important is following and realizing a dream for you"
+  },
+  {
+    "id": 17,
+    "idn": "Apa yang membuatmu berbohong",
+    "eng": "What makes you lie"
+  },
+  {
+    "id": 18,
+    "idn": "Pelangi mengingatkanmu pada apa?",
+    "eng": "What does the rainbow remind you of"
+  },
+  {
+    "id": 19,
+    "idn": "Apa pengaruh ayah dalam hidupmu",
+    "eng": "What is your father's influence on your life"
+  },
+  {
+    "id": 20,
+    "idn": "Apa hal terberat menjadi orang tua",
+    "eng": "What is the hardest thing of being a parent"
+  },
+  {
+    "id": 21,
+    "idn": "Apakah umur panjang penting buatmu",
+    "eng": "Is longevity important for you"
+  },
+  {
+    "id": 22,
+    "idn": "Apa yang kamu lakukan untuk mengobati lelah",
+    "eng": "What do you do to unwind"
+  },
+  {
+    "id": 23,
+    "idn": "Untuk apa kamu berkarya",
+    "eng": "Why do you make art"
+  },
+  {
+    "id": 24,
+    "idn": "Apakah kamu benar-benar menyayangi kekasihmu",
+    "eng": "Do you really love your partner"
+  },
+  {
+    "id": 25,
+    "idn": "Kegelapan mengingatkanmu pada apa",
+    "eng": "What does the darkness remind you of"
+  },
+  {
+    "id": 26,
+    "idn": "Apakah kamu orang yang jujur",
+    "eng": "Are you an honest person"
+  },
+  {
+    "id": 27,
+    "idn": "Bagaimana posisi uang di dalam hidupmu",
+    "eng": "How important is money in your life"
+  },
+  {
+    "id": 28,
+    "idn": "Apa yang kamu ingat dari sekolah",
+    "eng": "What do you remember from school"
+  },
+  {
+    "id": 29,
+    "idn": "Ingin makan malam dengan siapa hari ini",
+    "eng": "Who would you like to have dinner with this evening"
+  },
+  {
+    "id": 30,
+    "idn": "Percayakah kamu akan keberadaan Tuhan",
+    "eng": "Do you believe in the existence of God"
+  },
+  {
+    "id": 31,
+    "idn": "Apa yang kamu lakukan atas kenangan",
+    "eng": "What do you do with memories"
+  },
+  {
+    "id": 32,
+    "idn": "Siapa yang paling sering memelukmu",
+    "eng": "Who hugs you the most"
+  },
+  {
+    "id": 33,
+    "idn": "Kondisi apa yang paling membuat kamu takut",
+    "eng": "What condition terrifies you the most"
+  },
+  {
+    "id": 34,
+    "idn": "Apa benda terakhir yang kamu buang",
+    "eng": "What was the last thing you disposed"
+  },
+  {
+    "id": 35,
+    "idn": "Apakah dia dapat membuat kamu tenang",
+    "eng": "Does s/he put you at ease"
+  },
+  {
+    "id": 36,
+    "idn": "Dengan apa kamu mengisi kehampaan",
+    "eng": "How do you fill the void"
+  },
+  {
+    "id": 37,
+    "idn": "Apa yang pernah kamu korbankan",
+    "eng": "What have you sacrificed"
+  },
+  {
+    "id": 38,
+    "idn": "Apakah kamu merasa dibutuhkan",
+    "eng": "Do you feel needed"
+  },
+  {
+    "id": 39,
+    "idn": "Di mana kamu menumpukan harapan",
+    "eng": "Where do you place your hopes"
+  },
+  {
+    "id": 40,
+    "idn": "Apa kebohonganmu yang terbesar",
+    "eng": "What is your biggest lie"
+  },
+  {
+    "id": 41,
+    "idn": "Keadaan seperti apa yang membuatmu berpura-pura",
+    "eng": "Under what circumstances would you gave to pretend"
+  },
+  {
+    "id": 42,
+    "idn": "Hal apa yang tidak pernah kamu ungkapkan",
+    "eng": "What is the thing you left unsaid"
+  },
+  {
+    "id": 43,
+    "idn": "Apa yang membantu kamu melupakan",
+    "eng": "What helps you forget"
+  },
+  {
+    "id": 44,
+    "idn": "Lagu apa yang saat ini bersenandung di dalam kepalamu",
+    "eng": "What song is humming in your head right now"
+  },
+  {
+    "id": 45,
+    "idn": "Apa yang kamu bayangkan ketika mendengar kata \"tenang",
+    "eng": "What comes to your mind when you hear the word \"calm"
+  },
+  {
+    "id": 46,
+    "idn": "Apakah pernikahan suatu tujuan",
+    "eng": "Is marriage a destination"
+  },
+  {
+    "id": 47,
+    "idn": "Apa yang kamu takuti dari rutinitas",
+    "eng": "What scares you about routine"
+  },
+  {
+    "id": 48,
+    "idn": "Apa yang kamu lakukan untuk memendam amarah",
+    "eng": "What do you do to calm your anger"
+  },
+  {
+    "id": 49,
+    "idn": "Apa yang ada di benakmu saat bangun tadi pagi",
+    "eng": "What was on your mind when you woke up this morning"
+  },
+  {
+    "id": 50,
+    "idn": "Haruskah orgasme hadir pada setiap hubungan seksual",
+    "eng": "Does orgasm have to be achieved in every sexual act"
+  },
+  {
+    "id": 51,
+    "idn": "Kenapa kamu meninggalkan rumah",
+    "eng": "Why did you leave home"
+  },
+  {
+    "id": 52,
+    "idn": "Dengan siapa kamu ingin menonton senja",
+    "eng": "Who do you want to watch the sunset with"
+  },
+  {
+    "id": 53,
+    "idn": "Kenikmatan yang tiada duanya",
+    "eng": "A pleasure like no other"
+  },
+  {
+    "id": 54,
+    "idn": "Apa fungsi agama dalam hidupmu",
+    "eng": "What is the purpose of religion in your life"
+  },
+  {
+    "id": 55,
+    "idn": "Topeng apa yang sedang kamu pakai",
+    "eng": "What mask are you wearing"
+  },
+  {
+    "id": 56,
+    "idn": "Memori apa yang ingin kamu lupakan dari masa kecilmu",
+    "eng": "What is the one memory from childhood that you want to forget"
+  },
+  {
+    "id": 57,
+    "idn": "Apa yang membatasi hidupmu",
+    "eng": "What limits your life"
+  },
+  {
+    "id": 58,
+    "idn": "Dengan siapa kamu bergandengan tangan",
+    "eng": "Who do you hold hands with"
+  },
+  {
+    "id": 59,
+    "idn": "Kata apa yang ingin kamu teriakkan ke seluruh dunia",
+    "eng": "What is one word you would scream to the whole world"
+  },
+  {
+    "id": 60,
+    "idn": "Hal paling membosankan yang pernah kamu alami",
+    "eng": "The most boring thing you've ever experienced"
+  },
+  {
+    "id": 61,
+    "idn": "Kenapa kamu terus menyiksa dirimu",
+    "eng": "Why do you keep on torturing yourself"
+  },
+  {
+    "id": 62,
+    "idn": "Dengan siapa kamu ingin memandang laut",
+    "eng": "With whom do you want to watch the sea?"
+  },
+  {
+    "id": 63,
+    "idn": "Apa kesalahan orangtuamu",
+    "eng": "What is your parent's mistake"
+  },
+  {
+    "id": 64,
+    "idn": "Metode kamu dalam memilih teman",
+    "eng": "What's your method in choosing friend"
+  },
+  {
+    "id": 65,
+    "idn": "Apa yang paling kamu ingat tentang masa kecil",
+    "eng": "What do you remember the most about childhood"
+  },
+  {
+    "id": 66,
+    "idn": "Percayakah kamu akan keberadaan semesta lain",
+    "eng": "Do you believe in parallel universe"
+  },
+  {
+    "id": 67,
+    "idn": "Apa yang kaulakukan jika ada serangga masuk ke kupingmu",
+    "eng": "What do you do if an insect gets in your ear"
+  },
+  {
+    "id": 68,
+    "idn": "Kapan kamu akan berhenti khawatir",
+    "eng": "When will you stop worrying"
+  },
+  {
+    "id": 69,
+    "idn": "Apa hal terakhir yang membuatmu merasa muak",
+    "eng": "What was the last thing that made you disgusted"
+  },
+  {
+    "id": 70,
+    "idn": "Satu momen yang ingin kamu ulang berkali-kali",
+    "eng": "The one moment you would repeat over and over"
+  },
+  {
+    "id": 71,
+    "idn": "Apa yang menjaga kewarasanmu",
+    "eng": "What keeps you sane"
+  },
+  {
+    "id": 72,
+    "idn": "Siapa yang selalu mengingatkanmu",
+    "eng": "Who keeps you in check"
+  },
+  {
+    "id": 73,
+    "idn": "Apa rasa iri terbesarmu",
+    "eng": "What's your biggest envy"
+  },
+  {
+    "id": 74,
+    "idn": "Teringat apa jika melihat buah dada yang besar",
+    "eng": "What do you recall from seeing big boobs"
+  },
+  {
+    "id": 75,
+    "idn": "Siapa orang yang kamu benci sekaligus sayangi",
+    "eng": "Who do you hate and love at once"
+  },
+  {
+    "id": 76,
+    "idn": "Apa hal yang selalu kamu tunda",
+    "eng": "What is the thing you keep putting off"
+  },
+  {
+    "id": 77,
+    "idn": "Kenapa hubungan kasih sayang bisa kedaluwarsa",
+    "eng": "Why does romance have an expiry date"
+  },
+  {
+    "id": 78,
+    "idn": "Basa-basi yang sering kamu lontarkan",
+    "eng": "Your go-to small talk"
+  },
+  {
+    "id": 79,
+    "idn": "Bagaimana kamu menghukum diri sendiri",
+    "eng": "How do you punish yourself"
+  },
+  {
+    "id": 80,
+    "idn": "Apa yang kamu ingat dari kampung halaman",
+    "eng": "What do you remember from your hometown"
+  },
+  {
+    "id": 81,
+    "idn": "Kenapa kamu menyukai hidupmu yang sekarang",
+    "eng": "Why do you like your current life"
+  },
+  {
+    "id": 82,
+    "idn": "Beban apa yang kamu pikul saat ini",
+    "eng": "What cross are you bearing at the moment"
+  },
+  {
+    "id": 83,
+    "idn": "Siapa teman yang paling mengerti dirimu",
+    "eng": "Which friend understands you the most"
+  },
+  {
+    "id": 84,
+    "idn": "Apa yang selalu ada di dalam kulkasmu",
+    "eng": "What is always available in your fridge"
+  },
+  {
+    "id": 85,
+    "idn": "Kepada siapa kamu mencari tawa",
+    "eng": "Who do you look for to have a laugh"
+  },
+  {
+    "id": 86,
+    "idn": "Untuk apa kamu berdoa",
+    "eng": "Why do you pray"
+  },
+  {
+    "id": 87,
+    "idn": "Siapa yang teleponnya akan selalu kamu terima",
+    "eng": "Whose phone call will you accept at all times"
+  },
+  {
+    "id": 88,
+    "idn": "Hal tergila yang pernah kamu lakukan",
+    "eng": "The craziest thing you've ever doing"
+  },
+  {
+    "id": 89,
+    "idn": "Siapa orang yang kamu sayang tapi kamu jauhi",
+    "eng": "Who is the one person you care about but also avoid at the same time"
+  },
+  {
+    "id": 90,
+    "idn": "Apa yang kamu lakukan saat jalan-jalan sendirian",
+    "eng": "What do you do when you hang around alone"
+  },
+  {
+    "id": 91,
+    "idn": "Seberapa sering kamu melakukan hubungan seksual",
+    "eng": "How often do you engage in sexual acts"
+  },
+  {
+    "id": 92,
+    "idn": "Apa yang membuat komitmen terlihat seperti monster",
+    "eng": "What makes a commitment appear as a monster"
+  },
+  {
+    "id": 93,
+    "idn": "Keraguan apa yang sedang kamu simpan",
+    "eng": "What is your current doubt"
+  },
+  {
+    "id": 94,
+    "idn": "Hal paling egois yang pernah kamu lakukan",
+    "eng": "The most selfish thing you've ever done"
+  },
+  {
+    "id": 95,
+    "idn": "Kejadian yang ingin kamu lupakan",
+    "eng": "A moment you want to forget"
+  },
+  {
+    "id": 96,
+    "idn": "Kenapa kamu berselingkuh",
+    "eng": "Why did you cheat"
+  },
+  {
+    "id": 97,
+    "idn": "Mimpi terakhir yang masih kamu ingat",
+    "eng": "The last dream you can still recall"
+  },
+  {
+    "id": 98,
+    "idn": "Apa hubungan benda dengan kebahagiaanmu",
+    "eng": "What is the relation between material things and your happiness"
+  },
+  {
+    "id": 99,
+    "idn": "Bagaimana prosesmu sembuh dari patah hati",
+    "eng": "How do you recover from a broken heart"
+  },
+  {
+    "id": 100,
+    "idn": "Kenapa harus selalu menjaga jarak aman",
+    "eng": "Why is it necessary to keep a safe distance"
+  },
+  {
+    "id": 101,
+    "idn": "Apa yang kamu teriakkan ketika orgasme",
+    "eng": "What do you scream as you reach orgasm"
+  },
+  {
+    "id": 102,
+    "idn": "Kewajiban paling membosankan",
+    "eng": "The most tedious obligation"
+  },
+  {
+    "id": 103,
+    "idn": "Apa yang akan terjadi pada hari tuamu",
+    "eng": "What will happen in your old age"
+  },
+  {
+    "id": 104,
+    "idn": "Apakah kamu orang yang membosankan",
+    "eng": "Are you a boring person"
+  },
+  {
+    "id": 105,
+    "idn": "Apa yang sedang baik-baik saja akhir-akhir ini",
+    "eng": "What's been okay lately"
+  },
+  {
+    "id": 106,
+    "idn": "Pemikiran apa yang kamu simpan sendiri",
+    "eng": "What thoughts do you keep to yourself"
+  },
+  {
+    "id": 107,
+    "idn": "Pergi ke mana jika ingin merasa dibutuhkan",
+    "eng": "Where do you go when you want to feel needed"
+  },
+  {
+    "id": 108,
+    "idn": "Seberapa sering kamu pura-pura bahagia",
+    "eng": "How often do you pretend to be happy"
+  },
+  {
+    "id": 109,
+    "idn": "Di mana kamu menyimpan kondom",
+    "eng": "Where do you keep the condoms"
+  },
+  {
+    "id": 110,
+    "idn": "Makanan yang membuat hari terasa lebih baik",
+    "eng": "What food makes the day a bit better"
+  },
+  {
+    "id": 111,
+    "idn": "Apa kegunaan tabunganmu",
+    "eng": "What's the purpose of your savings"
+  },
+  {
+    "id": 112,
+    "idn": "Bagaimana kamu menghabiskan hari tua",
+    "eng": "How will you spend your old age"
+  },
+  {
+    "id": 113,
+    "idn": "Saat paling mabuk dalam hidupmu",
+    "eng": "The drunkest moment in your life"
+  },
+  {
+    "id": 114,
+    "idn": "Apa sebenarnya fungsi kehadiran anak",
+    "eng": "What is really the purpose of children"
+  },
+  {
+    "id": 115,
+    "idn": "Kenapa kamu ingin dikagumi",
+    "eng": "Why do you want to be adored"
+  },
+  {
+    "id": 116,
+    "idn": "Seperti apa bayanganmu mengenai hari akhir",
+    "eng": "How do you picture the doomsday"
+  },
+  {
+    "id": 117,
+    "idn": "Hal sia-sia yang kamu pertahankan",
+    "eng": "What pointless things you hold on to"
+  },
+  {
+    "id": 118,
+    "idn": "Kamu ingin terkenal sebagai apa",
+    "eng": "What do you want to be famous for"
+  },
+  {
+    "id": 119,
+    "idn": "Kenapa kamu menghakimi diam-diam",
+    "eng": "Why do you silently judge"
+  },
+  {
+    "id": 120,
+    "idn": "Kepada siapa kamu mempertontonkan dirimu",
+    "eng": "Whom do you expose yourself to"
+  },
+  {
+    "id": 121,
+    "idn": "Mantan pacar yang belum dilupakan",
+    "eng": "A former lover you have not yet forgotten"
+  },
+  {
+    "id": 122,
+    "idn": "Perang yang kamu hadapi seorang diri",
+    "eng": "What war are you fighting alone"
+  },
+  {
+    "id": 123,
+    "idn": "Apa yang kamu rasakan tentang warna hitam",
+    "eng": "How do you feel about the color black"
+  },
+  {
+    "id": 124,
+    "idn": "Kenapa harus seslalu berakhir dengan senggama",
+    "eng": "Why does it always have to end with sex"
+  },
+  {
+    "id": 125,
+    "idn": "Apa penyebab kekecewaan terakhir yang kamu alami",
+    "eng": "What was the last disappointment about"
+  },
+  {
+    "id": 126,
+    "idn": "Kalau bisa terbang kamu akan melakukan apa",
+    "eng": "If you could fly, what would you do"
+  },
+  {
+    "id": 127,
+    "idn": "Apakah seks memengaruhi kadar cinta",
+    "eng": "Does sex affect love"
+  },
+  {
+    "id": 128,
+    "idn": "Apa yang ingin kamu tato di tubuhmu",
+    "eng": "What would you tattoo on your body"
+  },
+  {
+    "id": 129,
+    "idn": "Teman favorit untuk mabuk bersama",
+    "eng": "Your favourite friend to get drunk with"
+  },
+  {
+    "id": 130,
+    "idn": "Bagaimana caramu membunuh kecoa",
+    "eng": "How do you kill a cockroach"
+  },
+  {
+    "id": 131,
+    "idn": "Berapa orang yang pernah tidur denganmu",
+    "eng": "How many people have slept with you"
+  },
+  {
+    "id": 132,
+    "idn": "Bagaimana rasanya hidup tanpa tujuan",
+    "eng": "How does it feel to lead an aimless life"
+  },
+  {
+    "id": 133,
+    "idn": "Perubahan prinsip apa yang pernah kamu alami",
+    "eng": "What changes in principles have you made"
+  },
+  {
+    "id": 134,
+    "idn": "Apa yang membuat kmau merasa seperti pecundang",
+    "eng": "What makes you feel like a loser"
+  },
+  {
+    "id": 135,
+    "idn": "Siapa yang pernah memukulmu",
+    "eng": "Who has hit you"
+  },
+  {
+    "id": 136,
+    "idn": "Bagaimana kamu tahu dia sedang berbohong",
+    "eng": "How can you tell when s/he is lying"
+  },
+  {
+    "id": 137,
+    "idn": "Alasan sentimental apa yang membuatmu bertahan",
+    "eng": "What sentimental reason makes you carry on"
+  },
+  {
+    "id": 138,
+    "idn": "Penyebab terakhir kamu putus cinta",
+    "eng": "The reason of your last break up"
+  },
+  {
+    "id": 139,
+    "idn": "Untuk alasan apa kamu memaksakan diri",
+    "eng": "What do you force yourself for"
+  },
+  {
+    "id": 140,
+    "idn": "Apa yang kamu lakukan saat berlama-lama di toilet",
+    "eng": "What you do when you spend so much time in the toilet"
+  },
+  {
+    "id": 141,
+    "idn": "Bagaimana cara kamu mengontrol diri",
+    "eng": "How do you control yourself"
+  },
+  {
+    "id": 142,
+    "idn": "Situasi paling berbahaya yang pernah kamu hadapi",
+    "eng": "The most dangerous situation you've encountered"
+  },
+  {
+    "id": 143,
+    "idn": "Bagaimana cara kamu merasakan kepalsuan orang lain",
+    "eng": "How do you sense fake-ness in other people"
+  },
+  {
+    "id": 144,
+    "idn": "Kesedihan terakhir yang kamu rayakan",
+    "eng": "The last misery you celebrated"
+  },
+  {
+    "id": 145,
+    "idn": "Hal apa yang ingn kamu lupakan",
+    "eng": "What do you want to be forget"
+  },
+  {
+    "id": 146,
+    "idn": "Usia berapa yang paling kamu takuti",
+    "eng": "What age scares you the most"
+  },
+  {
+    "id": 147,
+    "idn": "Kenapa kamu membenci internet",
+    "eng": "Why do you hate the internet"
+  },
+  {
+    "id": 148,
+    "idn": "Kenapa kamu merasakan rindu yang salah alamat",
+    "eng": "Why do you feel inappropriate longing"
+  },
+  {
+    "id": 149,
+    "idn": "Apa yang kamu lakukan ketika merasa diremehkan",
+    "eng": "What do you do when you feel underestimated"
+  },
+  {
+    "id": 150,
+    "idn": "Apakah kamu merasa cukup dihargai",
+    "eng": "Do you feel appreciated enough"
+  },
+  {
+    "id": 151,
+    "idn": "Apa yang kamu lakukan saat bertemu orang baru",
+    "eng": "What do you do when you meet someone new"
+  },
+  {
+    "id": 152,
+    "idn": "Bagaimana kalau ternyata kamu yang salah",
+    "eng": "What if you're wrong"
+  },
+  {
+    "id": 153,
+    "idn": "Bagaimana kamu mengacaukan hubunganmu yang terakhir",
+    "eng": "How did you mess up your relationship"
+  },
+  {
+    "id": 154,
+    "idn": "Seberapa pelitkah kamu",
+    "eng": "How stingy are you"
+  },
+  {
+    "id": 155,
+    "idn": "Kapan terakhir kali kamu ngompol",
+    "eng": "When was the last time you wet yourself"
+  },
+  {
+    "id": 156,
+    "idn": "Aktivitas yang menemani saat makan sendirian",
+    "eng": "What do you do while eating alone"
+  },
+  {
+    "id": 157,
+    "idn": "Kondisi terdekat dengan kematian",
+    "eng": "What was your near-death experience"
+  },
+  {
+    "id": 158,
+    "idn": "Siapa teman yang ingin kamu tiduri",
+    "eng": "Which friend do you want to sleep with"
+  },
+  {
+    "id": 159,
+    "idn": "Alasan kamu menyukai dirimu sendiri",
+    "eng": "Why do you like yourself"
+  },
+  {
+    "id": 160,
+    "idn": "Yang kamu rasakan setelah hubungan seks satu malam",
+    "eng": "What do you feel after a one night stand"
+  },
+  {
+    "id": 161,
+    "idn": "Siapa orang yang paling kamu percaya",
+    "eng": "Who do you trust the most"
+  },
+  {
+    "id": 162,
+    "idn": "Hubungan terlarang yang kamu tolerir",
+    "eng": "What forbidden relationship can you tolerate"
+  },
+  {
+    "id": 163,
+    "idn": "Di mana sebenarnya kamu ingin tinggal",
+    "eng": "Where do you actually want to live"
+  },
+  {
+    "id": 164,
+    "idn": "Masakan ibu yang selalu kamu rindukan",
+    "eng": "Mother's cooking you always miss"
+  },
+  {
+    "id": 165,
+    "idn": "Hal terakhir yang harus kamu lepaskan",
+    "eng": "What was the last thing you had to let go"
+  },
+  {
+    "id": 166,
+    "idn": "Aroma yang kamu benci",
+    "eng": "A smell you hate"
+  },
+  {
+    "id": 167,
+    "idn": "Siapa yang membuatmu lebih dewasa",
+    "eng": "Who compels you to mature"
+  },
+  {
+    "id": 168,
+    "idn": "Hal yang tidak bisa kamu lakukan tapi ingin kamu lakukan",
+    "eng": "The thing you want to do but cannot do"
+  },
+  {
+    "id": 169,
+    "idn": "Fakta apa yang ingin kamu ungkapkan hari ini",
+    "eng": "What fact do you want to disclose today"
+  },
+  {
+    "id": 170,
+    "idn": "Apa motivasi ekonomi dalam menikah",
+    "eng": "What is your economic reason for getting married"
+  },
+  {
+    "id": 171,
+    "idn": "Kapan pertama kali kamu mencicipi kebebasan",
+    "eng": "When was the first time you tasted freedom"
+  },
+  {
+    "id": 172,
+    "idn": "Hal yang merenggut kebebasan",
+    "eng": "The thing that takes away freedom"
+  },
+  {
+    "id": 173,
+    "idn": "Dengan siapa kamu berselingkuh",
+    "eng": "With whom do you have an affair"
+  },
+  {
+    "id": 174,
+    "idn": "Kematian siapa yang paling kamu tangisi",
+    "eng": "Whose death did you cry over the most"
+  },
+  {
+    "id": 175,
+    "idn": "Seandainya kamu pencipta semesta, apa yang kamu lakukan",
+    "eng": "If you were the creator of the universe, what would you do"
+  },
+  {
+    "id": 176,
+    "idn": "Kenapa kamu takut mengungkapkan perasaan",
+    "eng": "Why are you afraid to express your feelings"
+  },
+  {
+    "id": 177,
+    "idn": "Siapa yang kamu lihat sebagai objek",
+    "eng": "Who do you see as an object"
+  },
+  {
+    "id": 178,
+    "idn": "Apa yang kamu lakukan atas citra diri",
+    "eng": "What do you do with self-image"
+  },
+  {
+    "id": 179,
+    "idn": "Kebiasaan aneh pasanganmu saat ini",
+    "eng": "Weird habit of your current partner"
+  },
+  {
+    "id": 180,
+    "idn": "Apa yang ingin kamu revisi dari hidupmu",
+    "eng": "What would you reives from your life"
+  },
+  {
+    "id": 181,
+    "idn": "Kenapa kamu menjaga jarak dengan ibumu",
+    "eng": "Why do you keep some distance from your mother"
+  },
+  {
+    "id": 182,
+    "idn": "Impian yang sudah kamu ikhlaskan",
+    "eng": "What dreams have you let go"
+  },
+  {
+    "id": 183,
+    "idn": "Aktivitas favorit untuk membunuh waktu",
+    "eng": "Favourite activity to kill time"
+  },
+  {
+    "id": 184,
+    "idn": "Satu kata untuk menggambarkan karaktermu",
+    "eng": "One word to desribe yourself"
+  },
+  {
+    "id": 185,
+    "idn": "Tahun terbaik dalam hidupmu",
+    "eng": "When was the best year of your life"
+  },
+  {
+    "id": 186,
+    "idn": "Momen apa yang ingin kamu ulangi",
+    "eng": "What was the one moment you'd like to relive"
+  },
+  {
+    "id": 187,
+    "idn": "Kapan kamu akan merasa puas",
+    "eng": "When will you feel satisfied"
+  },
+  {
+    "id": 188,
+    "idn": "Bagaimana agar bisa menerima apa adanya",
+    "eng": "How to accept things as it is"
+  },
+  {
+    "id": 189,
+    "idn": "Kesalahan yang tidak bisa dimaafkan",
+    "eng": "What kind of mistakes is unforgivable"
+  },
+  {
+    "id": 190,
+    "idn": "Puaskah kamu dengan penampilan fisikmu",
+    "eng": "Are you content with your physical appearance"
+  },
+  {
+    "id": 191,
+    "idn": "Untuk siapa kamu mengubah dirimu",
+    "eng": "Who do you change yourself for"
+  },
+  {
+    "id": 192,
+    "idn": "Cara kamu mengendalikan pikiran buruk",
+    "eng": "How do you control bad thoughts"
+  },
+  {
+    "id": 193,
+    "idn": "Bagaimana kamu memutuskan salah dan benar",
+    "eng": "How do you decide right from wrong"
+  },
+  {
+    "id": 194,
+    "idn": "Siapa yang kamu awasi setiap hari",
+    "eng": "Who do you look out for every day"
+  },
+  {
+    "id": 195,
+    "idn": "Akan seberapa panjang prosesnya",
+    "eng": "How long is the process"
+  },
+  {
+    "id": 196,
+    "idn": "Apakah keinginanmu yang sebenar-benarnya",
+    "eng": "What do you really, truly want"
+  },
+  {
+    "id": 197,
+    "idn": "Bagaimana kamu bertahan menjalani hari demi hari",
+    "eng": "How do you survive from day to day"
+  },
+  {
+    "id": 198,
+    "idn": "Watak buruk yang kamu tutup-tutupi",
+    "eng": "What is the bad trait you're hiding"
+  },
+  {
+    "id": 199,
+    "idn": "Kemarahan terbesar yang pernah kamu rasakan",
+    "eng": "The greatest anger you've ever felt"
+  },
+  {
+    "id": 200,
+    "idn": "Seperti apa hubungan adik-kakak yang kamu miliki",
+    "eng": "What kind of sibling relationship do you have"
+  },
+  {
+    "id": 201,
+    "idn": "Reaksimu atas kebohongan yang terbongkar",
+    "eng": "How do you react to a discovered life"
+  },
+  {
+    "id": 202,
+    "idn": "Seandainya kamu dapat memilih kelamin, apa yang akan kaulakukan",
+    "eng": "If you can choose your sex, what would you do"
+  },
+  {
+    "id": 203,
+    "idn": "Permainan apa yang sedang kamu jalani",
+    "eng": "What game are you playing"
+  },
+  {
+    "id": 204,
+    "idn": "Apa yang membuatmu tidak berhenti",
+    "eng": "What keeps you going"
+  },
+  {
+    "id": 205,
+    "idn": "Dengan siapa kamu tidur malam ini",
+    "eng": "Who are you sleeping with tonight"
+  },
+  {
+    "id": 206,
+    "idn": "Kebaikan tanpa pamrih yang pernah kamu lakukan",
+    "eng": "What unconditional kindness have you done"
+  },
+  {
+    "id": 207,
+    "idn": "Apa yang membuatmu sabar menunggu",
+    "eng": "What makes you wait patiently"
+  },
+  {
+    "id": 208,
+    "idn": "Kenapa saat ini kamu berada di sini",
+    "eng": "Why are you here right now"
+  },
+  {
+    "id": 209,
+    "idn": "Kemiskinan paling menyedihkan dari kemanusiaan",
+    "eng": "What is the most tragic poverty in humanity"
+  },
+  {
+    "id": 210,
+    "idn": "Keputusan apa yang akan selalu kamu sesali",
+    "eng": "What decision will you always regret"
+  },
+  {
+    "id": 211,
+    "idn": "Hal tidak masuk akal apa yang pernah kamu maklumi",
+    "eng": "What illogical thing have you tolerated"
+  },
+  {
+    "id": 212,
+    "idn": "Apa yang kamu lakukan ketika berada di antara dua pilihan",
+    "eng": "What to do whem you're between two choices"
+  },
+  {
+    "id": 213,
+    "idn": "Hal paling spontan yang pernah kamu lakukan",
+    "eng": "The most spontaneous thing you've ever done"
+  },
+  {
+    "id": 214,
+    "idn": "Apakah kamu mudah dipengaruhi",
+    "eng": "Are you easily-influenced"
+  },
+  {
+    "id": 215,
+    "idn": "Untuk apa kestabilan ada",
+    "eng": "What is stability for"
+  },
+  {
+    "id": 216,
+    "idn": "Kapan kamu bosan dengan dirimu sendiri",
+    "eng": "When are you bored with yourself"
+  },
+  {
+    "id": 217,
+    "idn": "Apa yang membuatmu terangsang",
+    "eng": "What arouses you"
+  },
+  {
+    "id": 218,
+    "idn": "Upaya kamu untuk bertahan",
+    "eng": "What is your effort to hang on"
+  },
+  {
+    "id": 219,
+    "idn": "Benda terakhir yang kamu beli dan sesali",
+    "eng": "The last thing you bought and regretted"
+  },
+  {
+    "id": 220,
+    "idn": "Hal-hal yang sering kamu catat",
+    "eng": "The things you often put down in notes"
+  },
+  {
+    "id": 221,
+    "idn": "Kebersamaan macam apa yang membuatmu jengah",
+    "eng": "What kind of togetherness makes you feel awkward"
+  },
+  {
+    "id": 222,
+    "idn": "Kebencian apa yang lama kamu simpan",
+    "eng": "What hatred do you keep"
+  },
+  {
+    "id": 223,
+    "idn": "Why do you enjoy hunting for disappointments",
+    "eng": "Kenapa kamu suka mencari kekecewaan"
+  },
+  {
+    "id": 224,
+    "idn": "Apa yang pura-pura kamu lupakan",
+    "eng": "What do you pretend to have forgotten"
+  },
+  {
+    "id": 225,
+    "idn": "Apa yang ada di kepalamu saat melihat baju dalam",
+    "eng": "What gets in your mind when you see underwear"
+  },
+  {
+    "id": 226,
+    "idn": "Metode kamu untuk menyembunyikan perasan",
+    "eng": "Your method to hide your feelings"
+  },
+  {
+    "id": 227,
+    "idn": "Terakhir kali kamu memanipulasi orang lain",
+    "eng": "The last time you manipulate other person"
+  },
+  {
+    "id": 228,
+    "idn": "Kenapa kamu suka sekali berbicara",
+    "eng": "Why do you like talking so much"
+  },
+  {
+    "id": 229,
+    "idn": "Bagaimana perasaanmu atas hubungan seksual yang sunyi",
+    "eng": "How do you feel about silent sex"
+  },
+  {
+    "id": 230,
+    "idn": "Kemudahan seperti apa yang ingin kamu miliki",
+    "eng": "What privilege would you like to have"
+  },
+  {
+    "id": 231,
+    "idn": "Kamu ingin bersembunyi dari apa",
+    "eng": "What do you want to hide from"
+  },
+  {
+    "id": 232,
+    "idn": "Apa yang membatasi gerak-gerik kamu akhir-akhir ini",
+    "eng": "What limits your movements lately"
+  },
+  {
+    "id": 233,
+    "idn": "Apa yang terasa penting padahal sebenarnya tidak penting",
+    "eng": "What feels important but is actually insignificant"
+  },
+  {
+    "id": 234,
+    "idn": "Bagaimana cara mempengaruhi kamu",
+    "eng": "How to influence you"
+  },
+  {
+    "id": 235,
+    "idn": "Apa alasanmu menyia-nyiakan waktu",
+    "eng": "What is your reason to waste time"
+  },
+  {
+    "id": 236,
+    "idn": "Apa yang kamu lakukan ketika dipojokkan",
+    "eng": "What do you do when cornered"
+  },
+  {
+    "id": 237,
+    "idn": "Memorabilia yang akan selalu kamu simpan",
+    "eng": "What memorabilia will you always keep"
+  },
+  {
+    "id": 238,
+    "idn": "Hal terlarang yang kamu sukai",
+    "eng": "What forbidden thing do you enjoy"
+  },
+  {
+    "id": 239,
+    "idn": "Cara kamu mendominasi",
+    "eng": "How do you dominate"
+  },
+  {
+    "id": 240,
+    "idn": "Surat seperti apa yang ingin kamu terima",
+    "eng": "What kind of letter would you like to receive"
+  },
+  {
+    "id": 241,
+    "idn": "Kenapa pergi kalau nantinya ingin kembali",
+    "eng": "Why leave, if only to return"
+  },
+  {
+    "id": 242,
+    "idn": "Catatan terakhir kamu mengenai pencapaian",
+    "eng": "Your last note about achievement"
+  },
+  {
+    "id": 243,
+    "idn": "Kenapa kamu jarang mendengarkan",
+    "eng": "Why do you rarely listen"
+  },
+  {
+    "id": 244,
+    "idn": "Untuk apa dipilih kalau kemudian disesali",
+    "eng": "Why choose if only to feel regret"
+  },
+  {
+    "id": 245,
+    "idn": "Memutuskan dengan sadarkah kamu",
+    "eng": "Do you decide soberly"
+  },
+  {
+    "id": 246,
+    "idn": "Kejujuran seperti apa yang tidak mudah",
+    "eng": "What kind of honesty that is not easy for you"
+  },
+  {
+    "id": 247,
+    "idn": "Apa yang tidak kamu sukai dari pasanganmu",
+    "eng": "What do you dislike from your partner"
+  },
+  {
+    "id": 248,
+    "idn": "Bagaimana bentuk garis akhir hidupmu",
+    "eng": "What is the shape of the finish line of your life"
+  },
+  {
+    "id": 249,
+    "idn": "Apakah kamu menyukai namamu",
+    "eng": "Do you like your name"
+  },
+  {
+    "id": 250,
+    "idn": "Apa yang paling menyakitimu",
+    "eng": "What hurts you the most"
+  },
+  {
+    "id": 251,
+    "idn": "Apakah sulit berteman denganmu",
+    "eng": "is it hard to be friend with you"
+  },
+  {
+    "id": 252,
+    "idn": "Sejauh apa kamu sudah mengenal diri sendiri",
+    "eng": "how far do you know yourself"
+  },
+  {
+    "id": 253,
+    "idn": "Apa ritual tidurmu",
+    "eng": "what habits do you do before going to bed"
+  },
+  {
+    "id": 254,
+    "idn": "Kenapa kamu suka makanan favoritmu",
+    "eng": "why do you like your favorite foods"
+  },
+  {
+    "id": 255,
+    "idn": "Kenapa membaca itu menyebalkan",
+    "eng": "why you don't like reading"
+  },
+  {
+    "id": 256,
+    "idn": "Apa tujuanmu untuk 5 tahun kedepan",
+    "eng": "what are your goals for the next 5 years"
+  },
+  {
+    "id": 257,
+    "idn": "Lebih baik dibenci atau ditinggalkan",
+    "eng": "what do you prefer, being hated or being left"
+  },
+  {
+    "id": 258,
+    "idn": "Sudah sejauh apa mimpimu tercapai",
+    "eng": "how far have you reached your goals"
+  },
+  {
+    "id": 259,
+    "idn": "Apakah kamu sedang menjalani sesuatu yang kamu sukai sekarang",
+    "eng": "do you love what you are doing now"
+  },
+  {
+    "id": 260,
+    "idn": "Apakah kamu menabung",
+    "eng": "do you save your money"
+  },
+  {
+    "id": 261,
+    "idn": "Kenapa kamu terus melakukannya",
+    "eng": "why do you keep doing what you are doing"
+  },
+  {
+    "id": 262,
+    "idn": "Siapa karakter antagonis favoritmu",
+    "eng": "who is your favorite movie villain"
+  },
+  {
+    "id": 263,
+    "idn": "Apakah kamu sedang suka seseorang",
+    "eng": "are you seeing anyone right now"
+  },
+  {
+    "id": 264,
+    "idn": "Siapa yang mematahkan hatimu",
+    "eng": "who broke your heart"
+  },
+  {
+    "id": 265,
+    "idn": "Hati siapa yang kamu patahkan",
+    "eng": "whose heart did you break"
+  },
+  {
+    "id": 266,
+    "idn": "Topik apa yang cocok untuk kencan pertama",
+    "eng": "what's your favorite topic to be talked on the first date"
+  },
+  {
+    "id": 267,
+    "idn": "Bisakah kamu memasak bekalmu",
+    "eng": "can you cook your own meal"
+  },
+  {
+    "id": 268,
+    "idn": "Bisakah kamu menyetir",
+    "eng": "can you drive"
+  },
+  {
+    "id": 269,
+    "idn": "Apa kelebihanmu",
+    "eng": "what are you good at"
+  },
+  {
+    "id": 270,
+    "idn": "Tipe pacar idamanmu",
+    "eng": "what are you looking in a boy/girlfriend"
+  },
+  {
+    "id": 271,
+    "idn": "Mimpi teraneh yang kamu pernah alami",
+    "eng": "what's your weirdest dream you've ever remembered"
+  },
+  {
+    "id": 272,
+    "idn": "Apa yang tidak bisa kamu toleransi",
+    "eng": "is there anything that you can't tolerate"
+  },
+  {
+    "id": 273,
+    "idn": "Kalau kamu bisa mengubah namamu, akan seperti apa jadinya",
+    "eng": "If you can choose your name, what would it be"
+  },
+  {
+    "id": 274,
+    "idn": "Makanan yang dulu terasa mewah tapi sekarang biasa saja",
+    "eng": "Food that used to be luxurious"
+  },
+  {
+    "id": 275,
+    "idn": "Apa kebiasaan baik mantanmu",
+    "eng": "What's your ex good habit"
+  },
+  {
+    "id": 276,
+    "idn": "Siapa artis yang kamu taksir (celebrity crush)",
+    "eng": "Who's your celebrity crush"
+  },
+  {
+    "id": 277,
+    "idn": "Kepada siapa kamu rela berkorban",
+    "eng": "For whom you're willing to sacrifice"
+  },
+  {
+    "id": 278,
+    "idn": "Masakan masa kecil/kampung halaman yang kamu rindukan",
+    "eng": "Your childhood food that you missed"
+  },
+  {
+    "id": 279,
+    "idn": "Apa standarmu dalam pernikahan yang didapat dari orang tuamu",
+    "eng": "What's your marriage standard from seeing your parent"
+  },
+  {
+    "id": 280,
+    "idn": "Adegan film yang paling berkesan",
+    "eng": "Film's scene that memorable"
+  },
+  {
+    "id": 281,
+    "idn": "Satu hal yang ingin kamu ubah di dunia",
+    "eng": "If there's one thing in this world you can change, what would it be"
+  },
+  {
+    "id": 282,
+    "idn": "Kapan kamu tahu orang di sekitarmu juga manusia",
+    "eng": "When do you know that you're surrounding was human too after all"
+  },
+  {
+    "id": 283,
+    "idn": "Bagian tubuhmu mana yang ingin kamu ubah",
+    "eng": "If you can change your parts of body, what would it be"
+  },
+  {
+    "id": 284,
+    "idn": "Apa penyakitmu yang jarang diketahui orang",
+    "eng": "What's your sickness that most of people doesn't know about"
+  },
+  {
+    "id": 285,
+    "idn": "Apa kekuatan super yang ingin kamu miliki",
+    "eng": "What's your super power if you could have one"
+  },
+  {
+    "id": 286,
+    "idn": "Bagaimana caramu untuk mengetahui fakta/kebenaran",
+    "eng": "How do you know it is the truth"
+  },
+  {
+    "id": 287,
+    "idn": "Kebaikan dari orang random yang pernah kamu terima",
+    "eng": "Kindness act from random people that you've remembered"
+  },
+  {
+    "id": 288,
+    "idn": "Apa yang salah dari dunia ini",
+    "eng": "What's wrong in this world"
+  },
+  {
+    "id": 289,
+    "idn": "Hal yang sampai sekarang kamu tidak percaya sudah melakukannya",
+    "eng": "Things that you don't believe you did it even until today"
+  },
+  {
+    "id": 290,
+    "idn": "Hal paling impulsif yang pernah kamu lakukan",
+    "eng": "The most impulsive things you've done"
+  },
+  {
+    "id": 291,
+    "idn": "Film apa yang setelah kamu tonton, kamu ingin menjadi karakternya",
+    "eng": "Film that you really want to be the character"
+  },
+  {
+    "id": 292,
+    "idn": "Apa yang menarik perhatianmu",
+    "eng": "What catches your attention"
+  },
+  {
+    "id": 293,
+    "idn": "Apa yang membuatmu tiba-tiba bersemangat",
+    "eng": "Thing that can make you suddenly excited"
+  },
+  {
+    "id": 294,
+    "idn": "Hal terakhir yang membuatmu merasa tertipu",
+    "eng": "The last thing that makes you feel got tricked"
+  },
+  {
+    "id": 295,
+    "idn": "Apa yang ingin kamu ungkapkan ke dia",
+    "eng": "What's your confession to him/her"
+  },
+  {
+    "id": 296,
+    "idn": "Apa pelajaran yang kamu ambil dari masa lalu",
+    "eng": "What lessons did you take from the past"
+  },
+  {
+    "id": 297,
+    "idn": "Bagaimana kamu tahu sesuatu yang buruk akan datang",
+    "eng": "How do you know something bad is coming"
+  },
+  {
+    "id": 298,
+    "idn": "Kenapa harus diam-diam",
+    "eng": "Why should be under-the-table"
+  },
+  {
+    "id": 299,
+    "idn": "Terakhir kali kamu merasa termanipulasi",
+    "eng": "Last time you felt manipulated"
+  },
+  {
+    "id": 300,
+    "idn": "Apakah kamu akan bercerita ke semua orang",
+    "eng": "Are you going to tell everyone"
+  },
+  {
+    "id": 301,
+    "idn": "Hal yang menurutmu overrated",
+    "eng": "Things that you feel its overrated"
+  },
+  {
+    "id": 302,
+    "idn": "Barang dari masa lalu yang terus kamu simpan",
+    "eng": "Items that you've always kept"
+  },
+  {
+    "id": 303,
+    "idn": "Apa hal yang membuatmu serius jika kamu mendengarnya",
+    "eng": "What are the things that make you serious if you hear about it"
+  },
+  {
+    "id": 304,
+    "idn": "Apakah kamu rela melakukan sesuatu demi cinta",
+    "eng": "Are you simp-type-people"
+  },
+  {
+    "id": 305,
+    "idn": "Mengapa harus jujur walaupun pahit",
+    "eng": "Why be honest even though it's bitter"
+  },
+  {
+    "id": 306,
+    "idn": "Hal yang kamu kagumi dari orang di sekitarmu saat ini",
+    "eng": "The things you admire about those around you right now"
+  },
+  {
+    "id": 307,
+    "idn": "Apa patah hati terbesarmu dalam hidup",
+    "eng": "Your biggest heartbroken moment on your life"
+  },
+  {
+    "id": 308,
+    "idn": "Apa yang membuatmu minder",
+    "eng": "What are your insecurities"
+  },
+  {
+    "id": 309,
+    "idn": "Mimpi paling berkesan yang kamu ingat",
+    "eng": "The most memorable dreams you remember"
+  },
+  {
+    "id": 310,
+    "idn": "Kenapa terasa berat/susah",
+    "eng": "Why does it feel difficult"
+  },
+  {
+    "id": 311,
+    "idn": "Kalau kamu punya asisten, urusan apa yang kamu serahkan",
+    "eng": "If you have an assistant, what affairs do you pass it out"
+  },
+  {
+    "id": 312,
+    "idn": "Apa yang membuat hari terasa lebih baik",
+    "eng": "What makes the day feel better"
+  },
+  {
+    "id": 313,
+    "idn": "Apakah kamu akan mengubah dirimu jika mengetahui sisa umurmu?",
+    "eng": "Would you change yourself if you knew when will you died?"
+  },
+  {
+    "id": 314,
+    "idn": "Apa hewan yang ingin kamu pelihara?",
+    "eng": "What animal would you like to pet?"
+  },
+  {
+    "id": 315,
+    "idn": "Apa nasihat yang kamu ingin berikan kepada dirimu versi muda?",
+    "eng": "What advice do you want to give to your younger self?"
+  },
+  {
+    "id": 316,
+    "idn": "Kapan terakhir kali kamu jatuh cinta?",
+    "eng": "When is the last time you fell in love?"
+  }
+]
