@@ -1,112 +1,115 @@
 /* General Reset */
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-color: #f4f4f9;
-    padding: 20px;
-  }
-  
-  .container {
-    max-width: 600px;
-    margin: 0 auto;
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-  }
-  
-  /* Header Section */
-  .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 20px;
-  }
-  
-  .logo {
-    font-size: 1.5rem;
-    font-weight: bold;
-    color: #007bff;
-  }
-  
-  .language-toggle label {
-    margin-left: 10px;
-    cursor: pointer;
-  }
-  
-  .language-toggle input[type="radio"] {
-    display: none; /* Sembunyikan radio button asli */
-  }
-  
-  .language-toggle label {
-    padding: 5px 10px;
-    border: 1px solid #ccc;
-    border-radius: 20px;
-    background-color: #f9f9f9;
-    transition: all 0.3s ease;
-  }
-  
-  .language-toggle input[type="radio"]:checked + label {
-    background-color: #007bff;
-    color: white;
-    border-color: #007bff;
-  }
-  
-  /* Counter Section */
-  .counter {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 20px;
-  }
-  
-  .number-display {
-    font-size: 3rem;
-    font-weight: bold;
-    margin: 0 20px;
-  }
-  
-  #minus-btn, #plus-btn {
-    padding: 10px;
-    font-size: 1.5rem;
-    border: none;
-    border-radius: 50%;
-    cursor: pointer;
-    background-color: #007bff;
-    color: white;
-  }
-  
-  #minus-btn:hover, #plus-btn:hover {
-    background-color: #0056b3;
-  }
-  
-  /* Question Section */
-  .question {
-    margin-bottom: 20px;
-  }
-  
-  #question-text {
-    font-size: 1.2rem;
-    line-height: 1.5;
-  }
-  
-  /* Random Button */
-  #random-btn {
-    padding: 10px 20px;
-    font-size: 1rem;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    background-color: #28a745;
-    color: white;
-  }
-  
-  #random-btn:hover {
-    background-color: #1e7e34;
-  }
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f9;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+/* Header Section */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.language-toggle label {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.language-toggle input[type="radio"] {
+  display: none; /* Sembunyikan radio button asli */
+}
+
+.language-toggle label {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  background-color: #f9f9f9;
+  transition: all 0.3s ease;
+}
+
+.language-toggle input[type="radio"]:checked + label {
+  background-color: #007bff;
+  color: white;
+  border-color: #007bff;
+}
+
+/* Counter Section */
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.number-display {
+  font-size: 2rem;
+  font-weight: bold;
+  width: 60px;
+  text-align: center;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  appearance: none; /* Hilangkan tampilan default input number */
+  -moz-appearance: textfield; /* Firefox */
+}
+
+.number-display::-webkit-inner-spin-button,
+.number-display::-webkit-outer-spin-button {
+  -webkit-appearance: none; /* Hilangkan tombol panah di input number */
+  margin: 0;
+}
+
+.number-display:focus {
+  border: 2px solid #007bff; /* Tambahkan border saat fokus */
+  background-color: #f0f8ff;
+}
+
+/* Question Section */
+.question {
+  margin-bottom: 20px;
+}
+
+#question-text {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+/* Random Button */
+#random-btn {
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: #28a745;
+  color: white;
+}
+
+#random-btn:hover {
+  background-color: #1e7e34;
+}
