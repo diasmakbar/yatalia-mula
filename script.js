@@ -1,16 +1,25 @@
 // Inisialisasi variabel
 let questions = [];
 let currentNumber = 1;
-let currentLanguage = "eng"; // Default ke bahasa Inggris (gunakan "eng")
+let currentLanguage = "eng"; // Default ke bahasa Inggris
 
 // Fetch data dari JSON
 fetch('questions.json')
   .then(response => response.json())
   .then(data => {
     questions = data;
-    displayQuestion(currentNumber, currentLanguage); // Tampilkan pertanyaan awal
+
+    // Set nilai maksimal input berdasarkan jumlah pertanyaan
+    const maxInput = document.getElementById('current-number');
+    maxInput.max = questions.length;
+
+    // Tampilkan pertanyaan awal setelah data selesai di-load
+    displayQuestion(currentNumber, currentLanguage);
   })
-  .catch(error => console.error("Error loading questions:", error));
+  .catch(error => {
+    console.error("Error loading questions:", error);
+    document.getElementById('question-text').textContent = "Failed to load questions.";
+  });
 
 // Fungsi untuk menampilkan pertanyaan
 function displayQuestion(number, language) {
@@ -24,7 +33,8 @@ function displayQuestion(number, language) {
 
 // Event listener untuk tombol plus
 document.getElementById('plus-btn').addEventListener('click', () => {
-  if (currentNumber < questions.length) {
+  const maxInput = document.getElementById('current-number').max;
+  if (currentNumber < maxInput) {
     currentNumber++;
     updateCounter(currentNumber);
     displayQuestion(currentNumber, currentLanguage);
@@ -56,7 +66,20 @@ document.querySelectorAll('input[name="language"]').forEach(radio => {
   });
 });
 
+// Event listener untuk input manual
+document.getElementById('current-number').addEventListener('input', (event) => {
+  const input = parseInt(event.target.value);
+  const maxInput = parseInt(event.target.max);
+  if (!isNaN(input) && input >= 1 && input <= maxInput) {
+    currentNumber = input;
+    displayQuestion(currentNumber, currentLanguage);
+  } else {
+    alert(`Please enter a valid number between 1 and ${maxInput}`);
+    updateCounter(currentNumber); // Reset ke nilai sebelumnya jika input tidak valid
+  }
+});
+
 // Fungsi untuk memperbarui tampilan counter
 function updateCounter(number) {
-  document.getElementById('current-number').textContent = number;
+  document.getElementById('current-number').value = number;
 }
