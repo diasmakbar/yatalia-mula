@@ -1,7 +1,7 @@
 // Inisialisasi variabel
 let questions = [];
 let currentNumber = 1;
-let currentLanguage = "eng";
+let currentLanguage = "eng"; // Default ke bahasa Inggris (gunakan "eng")
 
 // Fetch data dari JSON
 fetch('questions.json')
@@ -51,7 +51,7 @@ document.getElementById('random-btn').addEventListener('click', () => {
 // Event listener untuk toggle bahasa
 document.querySelectorAll('input[name="language"]').forEach(radio => {
   radio.addEventListener('change', (event) => {
-    currentLanguage = event.target.value;
+    currentLanguage = event.target.value; // Nilai "eng" atau "idn"
     displayQuestion(currentNumber, currentLanguage);
   });
 });
