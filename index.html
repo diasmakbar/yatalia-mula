@@ -13,10 +13,10 @@
       <div class="logo">LOGO</div>
       <div class="language-toggle">
         <label>
-          <input type="radio" name="language" value="idn" checked> ID
+          <input type="radio" name="language" value="eng" checked> EN
         </label>
         <label>
-          <input type="radio" name="language" value="eng"> EN
+          <input type="radio" name="language" value="idn"> ID
         </label>
       </div>
     </div>
@@ -24,7 +24,13 @@
     <!-- Counter -->
     <div class="counter">
       <button id="minus-btn">-</button>
-      <div id="current-number" class="number-display">1</div>
+      <input 
+        id="current-number" 
+        type="number" 
+        min="1" 
+        value="1" 
+        class="number-display"
+      />
       <button id="plus-btn">+</button>
     </div>
 
