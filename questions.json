@@ -1578,5 +1578,425 @@
     "id": 316,
     "idn": "Kapan terakhir kali kamu jatuh cinta?",
     "eng": "When is the last time you fell in love?"
+  },
+  {
+    "id": 317,
+    "idn": "Apa makanan pertama yang kamu masak?",
+    "eng": "What was the first dish you ever cooked?"
+  },
+  {
+    "id": 318,
+    "idn": "Kenapa memilih warna itu untuk kamarmu?",
+    "eng": "Why did you choose that color for your room?"
+  },
+  {
+    "id": 319,
+    "idn": "Film apa yang mengubah perspektifmu?",
+    "eng": "What movie changed your perspective?"
+  },
+  {
+    "id": 320,
+    "idn": "Pagi hari tanpa apa yang terasa hampa?",
+    "eng": "What's missing in your morning routine?"
+  },
+  {
+    "id": 321,
+    "idn": "Lagu apa yang selalu kamu nyanyikan?",
+    "eng": "What song do you always sing?"
+  },
+  {
+    "id": 322,
+    "idn": "Buku apa yang ingin kamu tulis?",
+    "eng": "What book do you wish you'd written?"
+  },
+  {
+    "id": 323,
+    "idn": "Ke mana larinya uangmu minggu ini?",
+    "eng": "Where did your money disappear this week?"
+  },
+  {
+    "id": 324,
+    "idn": "Siapa yang paling sering menginspirasi?",
+    "eng": "Who inspires you the most?"
+  },
+  {
+    "id": 325,
+    "idn": "Apa kebiasaan unikmu saat bekerja?",
+    "eng": "What's your unique work habit?"
+  },
+  {
+    "id": 326,
+    "idn": "Kota mana yang ingin kamu tinggali?",
+    "eng": "What city would you move to tomorrow?"
+  },
+  {
+    "id": 327,
+    "idn": "Apa hal pertama yang kamu lakukan pagi ini?",
+    "eng": "What's the first thing you did today?"
+  },
+  {
+    "id": 328,
+    "idn": "Kenapa kamu memilih pekerjaan ini?",
+    "eng": "Why did you choose this job?"
+  },
+  {
+    "id": 329,
+    "idn": "Apa kejutan terbaik dalam hidupmu?",
+    "eng": "What's the best surprise you've received?"
+  },
+  {
+    "id": 330,
+    "idn": "Siapa yang selalu ada di galeri fotomu?",
+    "eng": "Who's always in your photo gallery?"
+  },
+  {
+    "id": 331,
+    "idn": "Apa pencapaian terkecil yang banggakan?",
+    "eng": "What small achievement are you proud of?"
+  },
+  {
+    "id": 332,
+    "idn": "Apa yang kamu lakukan saat insomnia?",
+    "eng": "What do you do when you can't sleep?"
+  },
+  {
+    "id": 333,
+    "idn": "Kenapa kamu memilih lokasi ini?",
+    "eng": "Why did you choose this location?"
+  },
+  {
+    "id": 334,
+    "idn": "Apa keputusan tercepat yang pernah diambil?",
+    "eng": "What's the quickest decision you made?"
+  },
+  {
+    "id": 335,
+    "idn": "Siapa yang paling mengerti senyum palsumu?",
+    "eng": "Who sees through your fake smile?"
+  },
+  {
+    "id": 336,
+    "idn": "Apa yang ingin kamu teriakkan ke langit?",
+    "eng": "What would you scream at the sky?"
+  },
+  {
+    "id": 337,
+    "idn": "Kalau jadi superhero, kostumnya seperti apa?",
+    "eng": "What would your superhero costume look like?"
+  },
+  {
+    "id": 338,
+    "idn": "Apa nama Wi-Fi yang paling berkesan?",
+    "eng": "What's the most memorable Wi-Fi name?"
+  },
+  {
+    "id": 339,
+    "idn": "Apa makanan yang selalu gagal dimasak?",
+    "eng": "What food do you always burn?"
+  },
+  {
+    "id": 340,
+    "idn": "Apa aplikasi paling tidak berguna di HP-mu?",
+    "eng": "What's your most useless app?"
+  },
+  {
+    "id": 341,
+    "idn": "Apa makanan yang paling sering kamu pesan online?",
+    "eng": "What's the food you order most often online?"
+  },
+  {
+    "id": 342,
+    "idn": "Kenapa kamu selalu menghindari cermin di pagi hari?",
+    "eng": "Why do you always avoid the mirror in the morning?"
+  },
+  {
+    "id": 343,
+    "idn": "Menurutmu, apa kekuatan super paling tidak berguna?",
+    "eng": "What do you think is the most useless superpower?"
+  },
+  {
+    "id": 344,
+    "idn": "Kalau kamu jadi hewan, kamu mau jadi apa?",
+    "eng": "If you were an animal, what would you be?"
+  },
+  {
+    "id": 345,
+    "idn": "Apa hal pertama yang kamu lakukan kalau bangun kesiangan?",
+    "eng": "What’s the first thing you do when you wake up late?"
+  },
+  {
+    "id": 346,
+    "idn": "Siapa orang terakhir yang bikin kamu tersenyum?",
+    "eng": "Who was the last person who made you smile?"
+  },
+  {
+    "id": 347,
+    "idn": "Pernahkah kamu pura-pura baca buku hanya untuk kelihatan pintar?",
+    "eng": "Have you ever pretended to read a book just to look smart?"
+  },
+  {
+    "id": 348,
+    "idn": "Apa yang kamu lakukan saat bosan di meeting?",
+    "eng": "What do you do when you're bored in a meeting?"
+  },
+  {
+    "id": 349,
+    "idn": "Warna apa yang paling sering ada di lemarimu?",
+    "eng": "What color dominates your wardrobe?"
+  },
+  {
+    "id": 350,
+    "idn": "Kalau kamu bisa tinggal di film apapun, kamu pilih mana?",
+    "eng": "If you could live in any movie, which one would it be?"
+  },
+  {
+    "id": 351,
+    "idn": "Apa hal paling absurd yang pernah kamu beli?",
+    "eng": "What’s the most absurd thing you’ve ever bought?"
+  },
+  {
+    "id": 352,
+    "idn": "Jika kamu bisa tukar hidup dengan siapapun, siapa itu?",
+    "eng": "If you could trade lives with anyone, who would it be?"
+  },
+  {
+    "id": 353,
+    "idn": "Kapan terakhir kali kamu tertawa sampai nangis?",
+    "eng": "When was the last time you laughed until you cried?"
+  },
+  {
+    "id": 354,
+    "idn": "Apa barang favoritmu di tas sekarang?",
+    "eng": "What’s your favorite item in your bag right now?"
+  },
+  {
+    "id": 355,
+    "idn": "Hal apa yang paling kamu takutkan di dunia kerja?",
+    "eng": "What scares you the most about work life?"
+  },
+  {
+    "id": 356,
+    "idn": "Apa lagu yang bikin kamu langsung berhenti dan dengarkan?",
+    "eng": "What song makes you stop whatever you’re doing?"
+  },
+  {
+    "id": 357,
+    "idn": "Kalau kamu jadi presiden satu hari, aturan apa yang kamu buat?",
+    "eng": "If you were president for a day, what rule would you make?"
+  },
+  {
+    "id": 358,
+    "idn": "Apa mimpi buruk teraneh yang pernah kamu alami?",
+    "eng": "What’s the weirdest nightmare you’ve ever had?"
+  },
+  {
+    "id": 359,
+    "idn": "Kamu lebih memilih jadi kaya tapi kesepian atau miskin tapi bahagia?",
+    "eng": "Would you rather be rich but lonely or poor but happy?"
+  },
+  {
+    "id": 360,
+    "idn": "Apa hal paling bodoh yang pernah kamu percayai waktu kecil?",
+    "eng": "What’s the dumbest thing you believed as a kid?"
+  },
+  {
+    "id": 361,
+    "idn": "Kalau kamu bisa punya kekuatan untuk teleportasi, kemana tujuan pertamamu?",
+    "eng": "If you had teleportation powers, where would you go first?"
+  },
+  {
+    "id": 362,
+    "idn": "Apa skill yang ingin kamu pelajari tapi malas mulai?",
+    "eng": "What skill do you want to learn but are too lazy to start?"
+  },
+  {
+    "id": 363,
+    "idn": "Apa trik paling gampang untuk bikin kamu senyum?",
+    "eng": "What’s the easiest way to make you smile?"
+  },
+  {
+    "id": 364,
+    "idn": "Apa hal paling aneh yang pernah kamu coba masak?",
+    "eng": "What’s the weirdest thing you’ve ever tried cooking?"
+  },
+  {
+    "id": 365,
+    "idn": "Pernahkah kamu marah karena iklan di YouTube?",
+    "eng": "Have you ever been mad because of a YouTube ad?"
+  },
+  {
+    "id": 366,
+    "idn": "Apa hal pertama yang kamu lakukan kalau menang lotre?",
+    "eng": "What’s the first thing you’d do if you won the lottery?"
+  },
+  {
+    "id": 367,
+    "idn": "Apa hal paling menyebalkan tentang teknologi?",
+    "eng": "What’s the most annoying thing about technology?"
+  },
+  {
+    "id": 368,
+    "idn": "Siapa sosok fiksi yang menurutmu bakal jadi teman baikmu?",
+    "eng": "Who’s a fictional character you think would be your best friend?"
+  },
+  {
+    "id": 369,
+    "idn": "Apa hal terakhir yang kamu Googling?",
+    "eng": "What’s the last thing you Googled?"
+  },
+  {
+    "id": 370,
+    "idn": "Kalau kamu bisa hapus satu aplikasi dari HP-mu, apa itu?",
+    "eng": "If you could delete one app from your phone, what would it be?"
+  },
+  {
+    "id": 371,
+    "idn": "Apa hal paling aneh yang kamu lakukan di depan kaca mobil?",
+    "eng": "What’s the weirdest thing you’ve done in front of a car mirror?"
+  },
+  {
+    "id": 372,
+    "idn": "Apakah kamu lebih suka hidup tanpa internet atau tanpa AC?",
+    "eng": "Would you rather live without the internet or without AC?"
+  },
+  {
+    "id": 373,
+    "idn": "Apa hal terakhir yang bikin kamu mikir \"Kenapa aku ngelakuin ini?",
+    "eng": "What’s the last thing that made you think, \"Why am I doing this?"
+  },
+  {
+    "id": 374,
+    "idn": "Apa hal paling romantis yang pernah kamu lihat di film?",
+    "eng": "What’s the most romantic thing you’ve seen in a movie?"
+  },
+  {
+    "id": 375,
+    "idn": "Apa hal pertama yang kamu lakukan kalau jadi invisible?",
+    "eng": "What’s the first thing you’d do if you became invisible?"
+  },
+  {
+    "id": 376,
+    "idn": "Apa hal paling garing yang pernah kamu ketawa sendiri?",
+    "eng": "What’s the corniest thing you’ve laughed at alone?"
+  },
+  {
+    "id": 377,
+    "idn": "Apa hal paling random yang bikin kamu kangen rumah?",
+    "eng": "What’s the most random thing that makes you homesick?"
+  },
+  {
+    "id": 378,
+    "idn": "Apa hal paling nyeleneh yang pernah kamu coba demi followers?",
+    "eng": "What’s the weirdest thing you’ve done for followers?"
+  },
+  {
+    "id": 379,
+    "idn": "Apa hal terburuk yang pernah kamu lakukan atas nama “kerja keras”?",
+    "eng": "What’s the worst thing you’ve done in the name of “hard work”?"
+  },
+  {
+    "id": 380,
+    "idn": "Apa hal paling absurd yang pernah kamu lakukan karena lagi gabut?",
+    "eng": "What’s the most absurd thing you’ve done out of boredom?"
+  },
+  {
+    "id": 381,
+    "idn": "Kalau kamu bisa jadi karakter kartun, siapa itu?",
+    "eng": "If you could be a cartoon character, who would it be?"
+  },
+  {
+    "id": 382,
+    "idn": "Apa emoji favoritmu dan kenapa?",
+    "eng": "What’s your favorite emoji and why?"
+  },
+  {
+    "id": 383,
+    "idn": "Apa hal paling random yang bikin kamu merasa tua?",
+    "eng": "What’s the most random thing that makes you feel old?"
+  },
+  {
+    "id": 384,
+    "idn": "Apa hal paling aneh yang pernah kamu googling?",
+    "eng": "What’s the weirdest thing you’ve ever Googled?"
+  },
+  {
+    "id": 385,
+    "idn": "Apa hal paling lucu yang pernah kamu lihat di jalan?",
+    "eng": "What’s the funniest thing you’ve seen on the road?"
+  },
+  {
+    "id": 386,
+    "idn": "Apa hal paling random yang bikin kamu nangis?",
+    "eng": "What’s the most random thing that made you cry?"
+  },
+  {
+    "id": 387,
+    "idn": "Apa hal paling awkward yang pernah kamu alami di lift?",
+    "eng": "What’s the most awkward moment you’ve had in an elevator?"
+  },
+  {
+    "id": 388,
+    "idn": "Kalau kamu bisa jadi superhero selama sehari, kamu mau jadi siapa?",
+    "eng": "If you could be a superhero for a day, who would you be?"
+  },
+  {
+    "id": 389,
+    "idn": "Apa hal paling random yang bikin kamu mikir \"Ini pasti karma\"?",
+    "eng": "What’s the most random thing that made you think, \"This must be karma\"?"
+  },
+  {
+    "id": 390,
+    "idn": "Apa hal paling absurd yang pernah kamu percaya waktu kecil?",
+    "eng": "What’s the most absurd thing you believed as a kid?"
+  },
+  {
+    "id": 391,
+    "idn": "Apa makanan paling aneh yang pernah kamu coba?",
+    "eng": "What’s the weirdest food you’ve ever tried?"
+  },
+  {
+    "id": 392,
+    "idn": "Kalau kamu bisa jadi karakter di game, siapa itu?",
+    "eng": "If you could be a character in a game, who would it be?"
+  },
+  {
+    "id": 393,
+    "idn": "Apa hal pertama yang kamu lakukan kalau kehujanan?",
+    "eng": "What’s the first thing you do when caught in the rain?"
+  },
+  {
+    "id": 394,
+    "idn": "Apa benda paling berharga di tas mu sekarang?",
+    "eng": "What’s the most valuable item in your bag right now?"
+  },
+  {
+    "id": 395,
+    "idn": "Siapa orang terakhir yang bikin kamu marah?",
+    "eng": "Who was the last person that made you angry?"
+  },
+  {
+    "id": 396,
+    "idn": "Apa hal paling konyol yang pernah kamu lakukan demi uang?",
+    "eng": "What’s the silliest thing you’ve done for money?"
+  },
+  {
+    "id": 397,
+    "idn": "Kalau kamu bisa teleportasi, kemana tujuan pertamamu?",
+    "eng": "If you could teleport, where would you go first?"
+  },
+  {
+    "id": 398,
+    "idn": "Apa skill yang ingin kamu pelajari tapi belum mulai?",
+    "eng": "What skill do you want to learn but haven’t started yet?"
+  },
+  {
+    "id": 399,
+    "idn": "Apa hal paling sering kamu impikan belakangan ini?",
+    "eng": "What have you been dreaming about lately?"
+  },
+  {
+    "id": 400,
+    "idn": "Apa barang favoritmu di rumah?",
+    "eng": "What’s your favorite thing in your house?"
   }
 ]
